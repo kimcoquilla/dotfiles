@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kimcoquilla@gmail.com
+	name = Kim Coquilla
